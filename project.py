@@ -1,0 +1,5 @@
+A = input("Enter text : \n")
+B = input("Enter your number how much times you want text : ")
+print("\n\n")
+C = (A + "\n") *int(B)
+print(C)
