@@ -1,3 +1,11 @@
+🛠️ Launching method
+
+git clone https://github.com/Harnoor-Singh15/Repeatable.git
+
+cd Repeatable
+
+python Run.py OR python3 Run.py
+
 📌 Description
 In many real-world scenarios, users often find themselves repeatedly copying and pasting the same text multiple times — whether for software testing, formatting templates, automation, or rapid message generation. Manually doing this process is not only repetitive but also inefficient.
 
@@ -18,3 +26,11 @@ Automating repetitive tasks
 Generating bulk placeholder text
 
 Simulating inputs for testing
+
+Disclaimer:
+
+This tool is made strictly for educational and productivity purposes.
+
+The creator is not responsible for any illegal use or misuse of this tool.
+
+Use it ethically and wisely. 💻✅
